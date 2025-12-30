@@ -2,7 +2,6 @@ import fetch from 'node-fetch';import fetch from 'node-fetch';
 import readline from 'readline-sync';
 
 
-
 import fetch from 'node-fetch';import fetch from 'node-fetch';
 import readline from 'readline-sync';
 import fs from 'fs';
@@ -102,6 +101,7 @@ const deleteMessage = async (channelId, messageId, token) => {
         }
     }
 })();
+
 
 
 
