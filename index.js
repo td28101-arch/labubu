@@ -1,12 +1,5 @@
 
-import fetch from 'node-fetch';import fetch from 'node-fetch';
-import readline from 'readline-sync';
-import fetch from 'node-fetch';import fetch from 'node-fetch';
-import readline from 'readline-sync';
-import fetch from 'node-fetch';import fetch from 'node-fetch';
-import readline from 'readline-sync';
-import fetch from 'node-fetch';import fetch from 'node-fetch';
-import readline from 'readline-sync';
+
 import fetch from 'node-fetch';import fetch from 'node-fetch';
 import fetch from 'node-fetch';import fetch from 'node-fetch';
 import readline from 'readline-sync';
@@ -122,6 +115,7 @@ const deleteMessage = async (channelId, messageId, token) => {
         }
     }
 })();
+
 
 
 
