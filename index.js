@@ -4,7 +4,25 @@ import readline from 'readline-sync';
 import fetch from 'node-fetch';import fetch from 'node-fetch';
 import fetch from 'node-fetch';import fetch from 'node-fetch';
 
+import import fetch from 'node-fetch';import fetch from 'node-fetch';
 import fetch from 'node-fetch';import fetch from 'node-fetch';
+
+import fetch from 'node-fetch';import fetch from 'node-fetch';
+
+import fetch from 'node-fetch';import fetch from 'node-fetch';
+
+import fetch import fetch from 'node-fetch';import fetch from 'node-fetch';
+
+import fetch from 'node-fetch';import fetch from 'node-fetch';import fetch from 'node-fetch';import fetch from 'node-fetch';
+import fetch from 'node-fetch';import fetch from 'node-fetch';
+
+import fetch from 'node-fetch';import fetch from 'node-fetch';
+
+import fetch from 'node-fetch';import fetch from 'node-fetch';
+
+import fetch import fetch from 'node-fetch';import fetch from 'node-fetch';
+
+import fetch from 'node-fetch';import fetch from 'node-fetch';fetch from 'node-fetch';import fetch from 'node-fetch';
 import fetch from 'node-fetch';import fetch from 'node-fetch';
 
 import fetch from 'node-fetch';import fetch from 'node-fetch';
@@ -202,6 +220,7 @@ const deleteMessage = async (channelId, messageId, token) => {
         }
     }
 })();
+
 
 
 
