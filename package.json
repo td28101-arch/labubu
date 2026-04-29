@@ -13,6 +13,7 @@
     
     "delay": "latest",
     "fs": "^0.0.1-security",
+    
     "node-fetch": "^3.3.2",
     "readline-sync": "^1.4.10"
   },
